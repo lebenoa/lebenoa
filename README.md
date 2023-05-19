@@ -7,6 +7,7 @@ I've experienced with
 - **JavaScript**
 - **PHP**
 - **Python**
+- A ***lil bit*** of **Rust**
 
 Most of them I didn't upload on GitHub.
 
