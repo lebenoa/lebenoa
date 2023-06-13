@@ -28,4 +28,4 @@ I’ll learn everything that **I'm interest** OR it look **fun**
 
 How to reach me
   - [My Discord Server](https://discord.gg/Tcggea9) or `ᴍᴇᴏɴᴀᴋᴏ#7724`
-  - [Facebook](https://www.facebook.com/lolisukidesu/)
+  - [Facebook](https://www.facebook.com/lolisukidesu/); Send "From Meonako github" and I'll respond
