@@ -9,12 +9,13 @@ I've experienced with
 - **PHP**
 - **Python**
 - A ***lil bit*** of **Rust**
+- A ***lil bit*** of **Zig** (My most favorite so far)
 
 Most of them I didn't upload on GitHub.
 
 ---
 
-My go to language is.. ***RUST*** and ***GO***
+My go to language is.. ***Rust*** and ***Zig***
 
 ---
 
