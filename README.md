@@ -4,7 +4,7 @@ I've experienced with
 - **C#**
 - **GO**
 - **Java**
-- **JavaScript**
+- **JavaScript** (TypeScript is a *VS Code extension* so that doesn't count)
 - **Kotlin**
 - **PHP**
 - **Python**
