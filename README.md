@@ -1,4 +1,4 @@
-# This user is longer active
+# This user is (should be) dead and no longer active
 
 ## Hi, I’m @**Meonako**
 
