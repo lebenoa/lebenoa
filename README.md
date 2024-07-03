@@ -26,4 +26,4 @@ I’ll learn everything that **I'm interest** OR it look **fun**
 ---
 
 How to reach me
-  - [My Discord Server](https://discord.gg/Tcggea9) or `meonakoni` or `meonakoichi`
+  - [My Discord Server](https://discord.gg/Tcggea9) or `lebenoa` or `meonakoichi`
